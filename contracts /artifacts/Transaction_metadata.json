@@ -22,6 +22,10 @@
 				"outputs": [],
 				"stateMutability": "payable",
 				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
 			}
 		],
 		"devdoc": {
@@ -52,11 +56,11 @@
 	},
 	"sources": {
 		"contracts /Transaction.sol": {
-			"keccak256": "0x82bd98f39ab8a154b39d754a6051f581365251c1ba4238b8238ed6dcb3947243",
+			"keccak256": "0xafe5636be231b10866212ea990f94e7dbb6058dda0f8d923b7c478a09d8c14f2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://32079e2569530a3a9a1779c08b068814d1e8c2b346c54ec17cf435aaa10c2977",
-				"dweb:/ipfs/QmbXjRdDUdn4Vze8xpbTxrjRVtnnN88D45KNxnAD73e7jC"
+				"bzz-raw://4100bd23d647f6e38304255226ec8645006dc2a01afc50f65cd4ecab49fd0285",
+				"dweb:/ipfs/QmV6QwALvTpQpv5vEmhRurcKbMq5Fc39uWNwyn8FzaM3BC"
 			]
 		}
 	},
